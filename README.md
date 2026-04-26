@@ -1,0 +1,2 @@
+# AuthPilot-AI--web-application-that-automate-prior-authorization-requests-utilizing-an-AI-assistant.
+AI development platform enabled us to design efficient prompts, power our document‑generation and risk‑analysis features, and deploy the application without building hosting infrastructure from scratch—allowing us to focus on transforming prior authorization into a faster, smarter, patient‑centered workflow. 
